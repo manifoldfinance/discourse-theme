@@ -1,0 +1,22 @@
+{
+  "name": "@manifoldfinance/discourse-theme",
+  "version": "0.0.1",
+  "description": "discourse theme.",
+  "main": ".template-lintrc.js",
+  "scripts": {
+    "test": "npx jest -u"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "UPL",
+  "volta": {
+    "node": "18.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-discourse": "^5.1.0",
+    "prettier": "^3.1.1",
+    "stylelint": "^16.0.2",
+    "stylelint-config-prettier-scss": "^1.0.0"
+  }
+}

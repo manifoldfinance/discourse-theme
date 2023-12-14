@@ -1,0 +1,34 @@
+{
+  "name": "ManifoldFinance",
+  "about_url": "https://github.com/manifoldfinance/discourse-theme",
+  "license_url": "https://github.com/manifoldfinance/discourse-theme/blob/main/LICENSE",
+  "color_schemes": {
+    "manifold-light": {
+      "primary": "F4FAFF",
+      "secondary": "#3E63DD",
+      "tertiary": "0D74CE",
+      "quaternary": "F4FAFF",
+      "header_background": "113264",
+      "header_primary": "C2E5FF",
+      "highlight": "528974",
+      "top_header_button": "C9E8CA"
+    }
+  },
+  "assets": {
+      "ABCMaxiRound-Bold": "assets/ABCMaxiRound-Bold.otf",
+      "ABCMaxiRound-Light": "assets/ABCMaxiRound-Light.otf",
+      "ABCMaxiRound-Regular": "assets/ABCMaxiRound-Regular.otf",
+      "Inter-Black": "assets/Inter-Black.ttf",
+      "Inter-Bold": "assets/Inter-Bold.ttf",
+      "Inter-SemiBold": "assets/Inter-SemiBold.ttf",
+      "Inter-ExtraBold": "assets/Inter-ExtraBold.ttf",
+      "Inter-Light": "assets/Inter-Light.ttf",
+      "Inter-ExtraLight": "assets/Inter-ExtraLight.ttf",
+      "Inter-Medium": "assets/Inter-Medium.ttf",
+      "Inter-Regular": "assets/Inter-Regular.ttf",
+      "Inter-Thin": "assets/Inter-Thin.ttf"
+  },
+  "components": [
+    "https://github.com/discourse/discourse-search-banner.git"
+  ]
+}
